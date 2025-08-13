@@ -1,0 +1,16 @@
+target/
+build/
+out/
+bin/
+
+node_modules/
+dist/
+npm-debug.log*
+
+.idea/
+.vscode/
+.iml
+.refactor/
+.resources/
+docker-compose.yaml
+

@@ -1,0 +1,8 @@
+questions:
+  - question: "Что такое JVM?"
+    answer: "Виртуальная машина Java, которая выполняет байт-код."
+    isSent: false
+  - question: "Чем `==` отличается от `equals()`?"
+    answer: "`==` сравнивает ссылки, `equals()` — содержимое объектов."
+  - question: "Что такое `String Pool`?"
+    answer: "Пул строк в heap-памяти для оптимизации хранения строк."
